@@ -1,0 +1,22 @@
+
+
+
+img{
+    /* display: block; */
+    visibility: none;
+    width: 30% ;
+    border-radius: 12px;
+    margin: 0 auto;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    width: 10%;
+    height: 30px;
+    border-radius: 12px;
+    margin: 10px auto;
+}
